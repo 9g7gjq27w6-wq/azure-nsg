@@ -1,10 +1,10 @@
 # Azure Networking Basics - Network Security Groups
 
 Created a virtual network "VNet" and two subents to it "App" and "DB"  
-To each subent depoloyed a VM, "appVM" and "dbVM"  
+To each subent deployed a VM, "appVM" and "dbVM"  
 Created two different NSGs, "appVM-nsg" and "nic-nsg"  
 Assiged appVM-nsg to the VNet  
-Assigned nic-nsg to the NIC of one of the appVM  
+Assigned nic-nsg to the NIC of the appVM  
 Both of the VMs have public IP addresses assigned
 
 
